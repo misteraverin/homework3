@@ -4,8 +4,8 @@ android {
     compileSdkVersion 24
     buildToolsVersion "24.0.2"
     defaultConfig {
-        applicationId "com.homework3"
-        minSdkVersion 19
+        applicationId "averin.homeworkbroadcastreceiver"
+        minSdkVersion 16
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"

@@ -1,4 +1,4 @@
-package com.homework3;
+package averin.homeworkbroadcastreceiver;
 
 import org.junit.Test;
 
